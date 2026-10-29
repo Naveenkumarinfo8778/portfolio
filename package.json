@@ -1,0 +1,19 @@
+{
+  "name": "naveen-kumar-portfolio",
+  "version": "1.0.0",
+  "description": "High-impact Cyberpunk / Neon HUD Portfolio for M. Naveen Kumar - Java Full Stack Developer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "java",
+    "spring-boot",
+    "react",
+    "full-stack",
+    "aws"
+  ],
+  "author": "M. Naveen Kumar <mnaveenkumarm716@gmail.com>",
+  "license": "MIT"
+}
